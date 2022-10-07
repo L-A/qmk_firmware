@@ -1,0 +1,8 @@
+#pragma once
+
+#define LED_MATRIX_KEYPRESSES
+
+// Allowing a few effects
+#define ENABLE_LED_MATRIX_BAND
+#define LED_MATRIX_SOLID_REACTIVE_MULTIWIDE
+#define ENABLE_LED_MATRIX_SOLID_MULTISPLASH
